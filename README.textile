@@ -1,0 +1,36 @@
+h1. Wordpress-Bootstrap
+
+Wordpress-Bootstrap is an exercise to integrate Bootstrap UI into Wordpress. The Wordpress core, config and content is excluded. The parent theme (twentytwelve) and the children theme(s) are included, along with the wordpress-bootstrap-css plugin.
+
+Source: "GitHub":https://github.com/nickbreslin/wordpress-bootstrap
+
+h3. Nick Breslin
+
+E-Mail: "nickbreslin@gmail.com":mailto:nickbreslin@gmail.com
+Twitter: "@EtiquetteStudio":http://twitter.com/#!/EtiquetteStudio
+Web Site: "nickbreslin.com":http://www.nickbreslin.com
+
+h2. TwentyTwelve
+
+* Directory Listing: http://wordpress.org/extend/themes/twentytwelve
+* Licensed under GPL v2: http://www.gnu.org/licenses/gpl-2.0.html
+
+h2. Wordpress Bootstrap CSS Plugin
+
+* Directory Listing: http://wordpress.org/support/plugin/wordpress-bootstrap-css
+* Contributors: dlgoodchild, paultgoodchild (worpit.com)
+
+Requires at least: 3.2.0
+Tested up to: 3.4.2
+Stable tag: 2.2.1.2
+
+h3. Bootstrap UI from Twitter
+
+* http://twitter.github.com/bootstrap/
+
+h2. Releases & Changelog
+
+h3. 2012.11.12 - v0.1.0
+
+* Line, Arc/Cone/Triangle, Perimeter Range Selection.
+* Revisiting Format and Griddy core methods.
