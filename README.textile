@@ -55,15 +55,21 @@ h3. Config Wordpress
 
 * You'll need mysql database name, address, username, and password.
 
+h2. Not using Wordpess-Bootstrap
+
 h3. Install Theme
 
-<pre>wget http://wordpress.org/extend/themes/download/twentytwelve.1.0.zip</pre>
+<pre>wget http://wordpress.org/extend/themes/download/twentytwelve.1.0.zip
+(sudo apt-get install unzip)
+unzip wordpress-bootstrap-css.latest-stable.zip</pre>
 
 Reference: http://codex.wordpress.org/Child_Themes
 
 h3. Install Plugin
 
 <pre>wget http://downloads.wordpress.org/plugin/wordpress-bootstrap-css.latest-stable.zip
-(msudo apt-get install unzip)
-unzip wordpress-bootstrap-css.latest-stable.zip
-</pre>
+unzip wordpress-bootstrap-css.latest-stable.zip</pre>
+
+h2. Not using Wordpess-Bootstrap
+
+<pre></pre>
