@@ -32,5 +32,5 @@ h2. Releases & Changelog
 
 h3. 2012.11.12 - v0.1.0
 
-* Line, Arc/Cone/Triangle, Perimeter Range Selection.
-* Revisiting Format and Griddy core methods.
+* Vanilla Twentytwelve Parent/Child
+* Wordpress Bootstrap CSS Plugin
