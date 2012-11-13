@@ -55,7 +55,7 @@ h3. Config Wordpress
 
 * You'll need mysql database name, address, username, and password.
 
-h2. Not using Wordpess-Bootstrap
+h2. Not using Wordpress-Bootstrap
 
 h3. Install Theme
 
@@ -70,6 +70,6 @@ h3. Install Plugin
 <pre>wget http://downloads.wordpress.org/plugin/wordpress-bootstrap-css.latest-stable.zip
 unzip wordpress-bootstrap-css.latest-stable.zip</pre>
 
-h2. Not using Wordpess-Bootstrap
+h2. Using Wordpress-Bootstrap
 
 <pre></pre>
