@@ -60,7 +60,6 @@ h2. Not using Wordpress-Bootstrap
 h3. Install Theme
 
 <pre>wget http://wordpress.org/extend/themes/download/twentytwelve.1.0.zip
-(sudo apt-get install unzip)
 unzip wordpress-bootstrap-css.latest-stable.zip</pre>
 
 Reference: http://codex.wordpress.org/Child_Themes
