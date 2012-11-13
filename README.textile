@@ -54,6 +54,7 @@ h3. Config Nginx
 h3. Config Wordpress
 
 * You'll need mysql database name, address, username, and password.
+* Set Wordpress owner back to ubuntu.
 
 h2. Not using Wordpress-Bootstrap
 
@@ -71,4 +72,11 @@ unzip wordpress-bootstrap-css.latest-stable.zip</pre>
 
 h2. Using Wordpress-Bootstrap
 
-<pre></pre>
+Check out the project, move the .git folder to the wordpress folder, remove the check, then reset, which places the files in the correct wp-content/ folder.
+
+<pre>
+git clone --no-checkout https://github.com/nickbreslin/wordpress-bootstrap.git tmp
+mv tmp/.git .
+rmdir tmp/
+git reset --hard HEAD
+</pre>
